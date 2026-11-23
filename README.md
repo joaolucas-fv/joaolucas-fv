@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou o **João Lucas**, natural de São Paulo e estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**, no Centro Universitário Fundação Santo André.
+Opa! Prazer, me chamo **João Lucas**, natural de São Paulo e estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**, no Centro Universitário Fundação Santo André.
 
 Meu interesse por tecnologia vem desde a infância. Essa curiosidade me levou à área de desenvolvimento e, principalmente, à **Segurança da Informação**, um campo que desperta meu interesse e no qual pretendo construir minha trajetória profissional.
 
@@ -145,7 +145,7 @@ Estou aberto a novas conexões, oportunidades de aprendizado e experiências que
 
 <div align="center">
 
-  **Obrigado pela visita! Volte sempre. 👋**
+  **Volte sempre! 👋**
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00B8D9,100:0B1020&amp;height=100&amp;section=footer" alt="Rodapé decorativo" />
 
