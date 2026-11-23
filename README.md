@@ -69,7 +69,7 @@ Tecnologias e ferramentas que fazem parte dos meus estudos e conhecimentos atuai
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <div align="center">
 
