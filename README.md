@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <!-- CABEÇALHO -->
@@ -102,6 +101,37 @@ Projeto educacional de Segurança da Informação que utiliza um **Modelo de Lin
 <div align="center">
 
   <a href="https://github.com/joaolucas-fv/phishing-detector-llm">
+    **↗ Acessar repositório e documentação**
+  </a>
+
+</div>
+
+### 🛡️ API Sentinel
+
+Projeto prático de Segurança da Informação desenvolvido com Python e FastAPI, com foco na segurança de APIs REST. A aplicação simula o gerenciamento de pedidos de uma empresa fictícia, utilizando tokens para identificar usuários e controlar o acesso às informações.
+
+Cada usuário pode consultar apenas os pedidos associados à sua identificação. Requisições com tokens inválidos são bloqueadas pela API.
+
+**O que pratiquei neste projeto:**
+
+- Desenvolvimento de APIs REST com FastAPI.
+- Autenticação por tokens e autorização de acesso.
+- Controle de acesso a informações.
+- Tratamento de respostas HTTP, incluindo o código 401 (Unauthorized).
+- Criação e execução de testes automatizados com Pytest e HTTPX.
+
+**Testes:** 4 cenários automatizados, todos aprovados durante o desenvolvimento.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Área-Segurança da Informação%20-00B8D9?style=flat-square" alt="Segurança de APIs" />
+  <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Testes-Pytest-0A9EDC?style=flat-square" alt="Pytest" />
+</p>
+
+<div align="center">
+
+  <a href="https://github.com/joaolucas-fv/api-sentinel">
     **↗ Acessar repositório e documentação**
   </a>
 
